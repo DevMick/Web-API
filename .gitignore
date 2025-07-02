@@ -369,6 +369,9 @@ logs/
 .env.test.local
 .env.production.local
 
+# Development configuration files with secrets
+appsettings.Development.json
+
 # User-specific files
 *.user
 *.userosscache
